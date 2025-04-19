@@ -16,11 +16,11 @@
 
 Sígueme en mis redes sociales para mantenerte actualizado con las últimas novedades y contenidos exclusivos:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/tu_usuario](https://twitter.com/HackersCuriosos))
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/tu_usuario](https://www.instagram.com/curiosidadesdehackers/))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu_usuario](https://es.linkedin.com/in/manuel-mart%C3%ADnez-curiosidades-de-hackers-55b245289))
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/tu_usuario](https://www.youtube.com/channel/UCyFq3OKciq3VMNpTmzV1XTA))
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([https://tiktok.com/@tu_usuario](https://www.tiktok.com/@curiosidadesdehackers))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/HackersCuriosos](https://twitter.com/HackersCuriosos))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/curiosidadesdehackers](https://www.instagram.com/curiosidadesdehackers/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/manuel-mart%C3%ADnez-curiosidades-de-hackers-55b245289](https://es.linkedin.com/in/manuel-mart%C3%ADnez-curiosidades-de-hackers-55b245289))
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/UCyFq3OKciq3VMNpTmzV1XTA](https://www.youtube.com/channel/UCyFq3OKciq3VMNpTmzV1XTA))
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([https://tiktok.com/@curiosidadesdehackers](https://www.tiktok.com/@curiosidadesdehackers))
 
 ## 📞 Contacto
 
