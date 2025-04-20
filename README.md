@@ -1,7 +1,7 @@
 ![Diseño_sin_título-removebg-preview](https://github.com/user-attachments/assets/58899486-4a42-4ca3-82d8-29ca9bb93f07)
 
 
-# ¡Hola! Soy Manuel Martínez 👋
+# ¡Hola! Soy Manuel Martínez(**Curiosidades de Hackers**)👋
 
 - 🔍 Curioso
 - 🛡️ Pentester
@@ -9,9 +9,7 @@
 - 🌐 [CuriosidadesDeHackers.com](https://curiosidadesdehackers.com)
 - 🐛 Bug Bounty Hunter
   
-# Curiosidades de Hackers
-
-¡Bienvenido a **Curiosidades de Hackers**! Este sitio está diseñado para explorar el fascinante mundo de la ciberseguridad, la tecnología y las curiosidades relacionadas con el hacking. Aquí encontrarás artículos, tutoriales y recursos que te ayudarán a entender mejor este apasionante campo.
+Este sitio está diseñado para explorar el fascinante mundo de la ciberseguridad, la tecnología y las curiosidades relacionadas con el hacking. Aquí encontrarás artículos, tutoriales y recursos que te ayudarán a entender mejor este apasionante campo.
 
 ## 🌐 Visita el Sitio Web
 
