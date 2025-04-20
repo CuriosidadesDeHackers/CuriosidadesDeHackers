@@ -20,6 +20,9 @@ Este sitio está diseñado para explorar el fascinante mundo de la cibersegurida
 - **Artículos**: Explora una variedad de artículos sobre temas de ciberseguridad, hacking ético y tecnología.
 - **Tutoriales**: Aprende con mis tutoriales paso a paso sobre diferentes técnicas y herramientas.
 - **Recursos**: Encuentra enlaces a herramientas, libros y otros recursos útiles para profundizar en el mundo del hacking.
+- **Reportes de Bug Bounty**: Descubre informes detallados sobre vulnerabilidades encontradas y reportadas en diversas plataformas.
+- **Pruebas de Concepto**: Accede a demostraciones prácticas de exploits y técnicas de hacking.
+- **Análisis en Profundidad**: Lee análisis detallados sobre temas avanzados de ciberseguridad y hacking.
 
 ## 🔗 Redes Sociales
 
