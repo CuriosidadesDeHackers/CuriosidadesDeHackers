@@ -28,6 +28,7 @@ Este sitio está diseñado para explorar el fascinante mundo de la cibersegurida
 
 Sígueme en mis redes sociales para mantenerte actualizado con las últimas novedades y contenidos exclusivos:
 
+[![Web](https://img.shields.io/badge/Sitio_Web-009ee1?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.curiosidadesdehackers.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HackersCuriosos)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/curiosidadesdehackers/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/manuel-mart%C3%ADnez-curiosidades-de-hackers-55b245289)
