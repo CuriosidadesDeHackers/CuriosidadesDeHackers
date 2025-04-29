@@ -5,7 +5,7 @@
 
 - 🔍 Curioso
 - 🛡️ Pentester
-- 🏢 Fundador de [TheHackersLabs](https://thehackerslabs.com)
+- 🏢 Fundador de [TheHackersLabs](https://thehackerslabs.com) y [BugBountyLabs](https://bugbountylabs.com)
 - 🌐 [CuriosidadesDeHackers.com](https://curiosidadesdehackers.com)
 - 🐛 Bug Bounty Hunter
   
@@ -36,6 +36,18 @@ Sígueme en mis redes sociales para mantenerte actualizado con las últimas nove
 [![MyPublicInbox](https://img.shields.io/badge/-MyPublicInbox-FFA500?style=for-the-badge&logo=mail.ru&logoColor=white)](https://www.mypublicinbox.com/CuriosidadesDeHackers)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyFq3OKciq3VMNpTmzV1XTA)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@curiosidadesdehackers)
+
+## 📊 Lenguajes que más uso
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuriosidadesDeHackers&layout=compact&theme=dark&locale=es&title_color=009ee1&text_color=ffffff" alt="Lenguajes que más uso"/>
+</p>
+
+## 💻 Tecnologias que suelo usar
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,apple,arch,aws,azure,bash,bsd,cloudflare,css,debian,bots,github,python,graphql,html,java,js,netlify,vscode,nodejs,postman,py,docker,linux,wordpress,bash,github,git,vscode,vercel,mysql,mongodb,kali,windows" />
+</p>
+
 
 ## 📞 Contacto
 
