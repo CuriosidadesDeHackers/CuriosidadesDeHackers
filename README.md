@@ -45,7 +45,7 @@ Sígueme en mis redes sociales para mantenerte actualizado con las últimas nove
 ## 💻 Tecnologias que suelo usar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,apple,arch,aws,azure,bash,bsd,cloudflare,css,debian,bots,github,python,graphql,html,java,js,netlify,vscode,nodejs,postman,py,docker,linux,wordpress,bash,github,git,vscode,vercel,mysql,mongodb,kali,windows" />
+  <img src="https://skillicons.dev/icons?i=angular,apple,arch,aws,azure,bash,bsd,cloudflare,css,debian,bots,github,python,graphql,html,java,js,netlify,vscode,nodejs,postman,py,docker,linux,wordpress,bash,git,vercel,mysql,mongodb,kali,windows" />
 </p>
 
 
