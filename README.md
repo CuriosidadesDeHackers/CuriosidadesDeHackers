@@ -60,6 +60,11 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en
 
 Si estás interesado en colaborar conmigo, contáctame.
 
+## ❤️ ¿Quieres apoyarme?
+<a href='https://ko-fi.com/O4O3W3IIA' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+
 ---
 
 ¡Gracias por visitar **Curiosidades de Hackers**! Espero que encuentres útil e interesante el contenido que comparto. ¡Hasta pronto!
